@@ -1,5 +1,5 @@
-This repo is being continuously updated by me as a help to [@tapeswinpatak](https://github.com/tapaswenipathak) as she is unable to merge more pull requests and has decided to take a break from https://github.com/tapaswenipathak/Open-Source-Programs.
 
+The dates are from last year and will be updated soonest.
 All PR's are now being entertained, Please star this repo in order to get further updates
 
 
@@ -45,8 +45,7 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [Microsoft Reinforcement Learning Open Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) | Yes | [timeline](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/timeline/) | May 9, 2022 <br/> Sep 12, 2022| Aug 15, 2022 <br/> Dec 2, 2022|N/A
 | [Devtron](https://devtron.ai/careers.html) | Yes |  | | | N/A
 
-* *Interns must be currently enrolled or employed at a U.S. university or other research institution and must currently reside in, and be eligible to work in, the United States.<br>
-* ** OSoC is only open to Belgian students.
+
 
 # Open Source Competitions
 
@@ -89,8 +88,3 @@ All PR's are now being entertained, Please star this repo in order to get furthe
 | [IIIT-Kalyani Winter of code](https://gdsc-woc.tech/) (WoC 2.0) | Certificates, SWAGs | [timeline](https://gdsc-woc.tech/#timeline)|
 
 Refer the template.md for more details
-
-# :handshake: Our Contributors
-<a href="hhttps://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=deepanshu1422/List-Of-Open-Source-Internships-Programs" />
-</a>
